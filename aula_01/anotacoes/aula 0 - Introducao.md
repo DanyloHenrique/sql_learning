@@ -33,7 +33,9 @@ eficácia de vacinas e medicamentos
 **Exemplo de aplicação**
 Agrupamento de partidos por quantidade de mulheres (eixo X) e quantidades de mulheres negras (Eixo Y)
 
-![[Pasted image 20250910143102.png]]
+![Exemplo de gráfico de análise de dados](https://github.com/DanyloHenrique/sql_learning/blob/aula_01/aula_01/anotacoes/imagens/Pasted%20image%2020250910143102.png
+"Exemplo de gráfico de análise de dados")
+
 
 # Profissionais de dados
 
@@ -47,5 +49,4 @@ Agrupamento de partidos por quantidade de mulheres (eixo X) e quantidades de mul
 O que separa ciência da análise = variável resposta (o exemplo de interesse para predição)
 
 # Salários
-
-![[Pasted image 20250910144758.png]]
+![Infográfico de salários na área de dados](https://github.com/DanyloHenrique/sql_learning/blob/aula_01/aula_01/anotacoes/imagens/Pasted%20image%2020250910144758.png "Infográfico de salários na área de dados")
