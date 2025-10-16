@@ -8,11 +8,9 @@ Scripts e Consultas: Códigos para a criação de tabelas, inserção de dados e
 
 Exercícios: Resoluções de desafios práticos para reforçar o aprendizado.
 
-Evolução: Uma documentação do meu progresso na linguagem SQL.
+Anotações: Minhas anotações e explicações de cada conteúdo
 
-Base do Conteúdo:
-
-Todo o material aqui é baseado no excelente curso "SQL 2025 do Teo Me Why, que serve como guia para minha jornada de aprendizado.
+Base do Conteúdo: Todo o material aqui é baseado no excelente curso "SQL 2025 do Teo Me Why, que serve como guia de aprendizado.
 
 ## Projeto final
 
